@@ -1,0 +1,5 @@
+F:\Code\VS\SougoInput2Google\SougoInput2Google\bin\Debug\SougoInput2Google.exe
+F:\Code\VS\SougoInput2Google\SougoInput2Google\bin\Debug\SougoInput2Google.pdb
+F:\Code\VS\SougoInput2Google\SougoInput2Google\obj\Debug\SougoInput2Google.csprojResolveAssemblyReference.cache
+F:\Code\VS\SougoInput2Google\SougoInput2Google\obj\Debug\SougoInput2Google.exe
+F:\Code\VS\SougoInput2Google\SougoInput2Google\obj\Debug\SougoInput2Google.pdb

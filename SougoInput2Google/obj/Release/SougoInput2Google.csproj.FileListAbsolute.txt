@@ -1,0 +1,5 @@
+F:\Code\VS\SougoInput2Google\SougoInput2Google\bin\Release\SougoInput2Google.exe
+F:\Code\VS\SougoInput2Google\SougoInput2Google\bin\Release\SougoInput2Google.pdb
+F:\Code\VS\SougoInput2Google\SougoInput2Google\obj\Release\SougoInput2Google.exe
+F:\Code\VS\SougoInput2Google\SougoInput2Google\obj\Release\SougoInput2Google.pdb
+F:\Code\VS\SougoInput2Google\SougoInput2Google\obj\Release\SougoInput2Google.csprojResolveAssemblyReference.cache
